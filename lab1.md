@@ -1,4 +1,4 @@
-**Визуализация датасета
+**Визуализация датасета**
 
 [Moscow schools - winners of educational Olympiads](https://www.kaggle.com/datasets/romazepa/moscow-schools-winners-of-educational-olympiads)
 
